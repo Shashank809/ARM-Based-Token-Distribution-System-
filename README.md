@@ -43,7 +43,7 @@ Flow:
 
 ## Hardware Components
 
-| Component            | Description                          | LPC2138 Pin |
+| Component            | Description                          | LPC2148 Pin |
 |---------------------|--------------------------------------|------------|
 | IR Sensor           | Detects object/person                | P0.x       |
 | LPC2148 MCU         | Main controller                      | -          |
